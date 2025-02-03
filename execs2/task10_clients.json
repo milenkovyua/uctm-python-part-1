@@ -1,0 +1,32 @@
+[
+	{
+		"client_number": "12",
+		"phone_number": "98989898",
+		"name": "Yuliyan",
+		"calls": [60, 45, 30, 20]
+	},
+	{
+		"client_number": "34",
+		"phone_number": "7865479988",
+		"name": "Yu",
+		"calls": [80, 40, 20, 20]
+	},
+	{
+		"client_number": "34",
+		"phone_number": "7865479987",
+		"name": "Yu",
+		"calls": [70, 50, 15, 10]
+	},
+	{
+		"client_number": "35",
+		"phone_number": "6665479988",
+		"name": "Yal",
+		"calls": [80, 40, 20, 20]
+	},
+	{
+		"client_number": "36",
+		"phone_number": "4465479988",
+		"name": "Ya",
+		"calls": [80, 40, 20, 20]
+	}
+]
